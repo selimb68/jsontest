@@ -1,5 +1,5 @@
 {
-  source : [
+  "source" : [
     {"name": "ARC", "allowsImport" : true }
   ]
   
