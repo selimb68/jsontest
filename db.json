@@ -1,6 +1,6 @@
 {
   "source" : [
-    {"name": "ARC", "allowsImport" : true }
+    {"shortName":"ARC", "name": "ARC", "allowsImport" : true }
   ]
   
 }
